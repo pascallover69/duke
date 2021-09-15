@@ -1,0 +1,7 @@
+main
+duke
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
